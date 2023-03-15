@@ -33,4 +33,4 @@ app.post('/students', jsonParser, (request, response) => {
 });
 
 app.listen(port);
-console.log('server listening on port 3000');
+console.log(`server listening on port ${port}`);
