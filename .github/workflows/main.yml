@@ -1,3 +1,5 @@
+# Script to deploy on the Render cloud platform
+
 name: Node.js CI
 
 on:
@@ -21,3 +23,4 @@ jobs:
         retries: 20
         wait: 16000
         sleep: 30000
+
