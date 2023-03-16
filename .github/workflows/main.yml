@@ -1,4 +1,4 @@
-# Script to deploy on the Render cloud platform
+# Script to deploy app on the Render cloud platform
 
 name: Node.js CI
 
